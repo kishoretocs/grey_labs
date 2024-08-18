@@ -1,0 +1,1 @@
+web: gunicorn grey_scientific_lab.wsgi --log-file -
