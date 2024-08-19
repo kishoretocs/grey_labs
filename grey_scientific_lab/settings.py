@@ -178,7 +178,7 @@ STATICFILES_DIRS = [
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CSRF_TRUSTED_ORIGINS = [
-    'https://greylabs-production.up.railway.app/',
+    'https://greylabs-production.up.railway.app',
 ]
 
 CORS_ORIGIN_ALLOW_ALL = True
